@@ -1,5 +1,7 @@
 # Economics policy statements (speeches)
 
+> **Taking over this project?** Start with [HANDOVER.md](HANDOVER.md): current state, next steps and what to watch out for.
+
 A dataset of economics-relevant policy statements by the heads of UK
 ministerial departments and US federal agencies, and the code that builds it.
 It is one half of a study comparing what economists research with what
